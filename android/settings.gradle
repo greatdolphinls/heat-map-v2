@@ -1,4 +1,4 @@
-rootProject.name = 'RNNav2dabit'
+rootProject.name = 'HeatMap'
 
 include ':app'
 
