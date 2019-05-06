@@ -1,0 +1,20 @@
+config.js — this file will hold some basic configuration for our app, 
+            in our case it will be an AsyncStorage key for retrieving the user from storage.
+
+Home.js — this file will hold the component that renders if the user is logged in.
+
+Initializing.js — this file will hold the initialization logic and display a 
+            message to the user that the app is loading.
+
+Signin.js / SignUp.js — These will hold the forms for signing in & signing up. 
+            SignIn.js will also redirect a signed in user to the Home screen.
+
+screens.js — this file will hold the screen configuration for React Native Navigation.
+
+navigation.js — this file will hold our navigation functions. We’ll 
+            have two main functions: goToAuth() & goHome().
+
+Screen2.js — this will just hold another component for us to navigate to 
+            from our Home screen to demonstrate stack navigation.
+
+            
